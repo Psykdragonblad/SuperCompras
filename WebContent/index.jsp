@@ -17,7 +17,7 @@
 	</nav>
 	<div class="formulario_compras">
 		<form action="" method="post">
-			
+			Teste
 		</form>
 	</div>
 	<div>Carrinho de Compras</div>
